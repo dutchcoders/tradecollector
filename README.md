@@ -1,3 +1,6 @@
+# Trade Collector
+Import all trades from Bitfinex, BTC-E, MtGox, BTC-China, OKCoin and more.
+
 # install
 gvm install go1.1.1
 gvm use go1.1.1 --default
