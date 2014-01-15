@@ -1,0 +1,3 @@
+#web: harvest
+worker: harvest
+
