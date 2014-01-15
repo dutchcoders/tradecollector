@@ -12,5 +12,6 @@ go get launchpad.net/goyaml
 
 # run
 ```
+export DB=username:password@tcp(host:port)/dbname
 go run harvest/harvest.go harvest/btce.go harvest/mtgox.go  harvest/okcoin.go harvest/btcchina.go  harvest/utils.go harvest/bitfinex.go
 ```
